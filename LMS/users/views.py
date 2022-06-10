@@ -1,6 +1,5 @@
 import re
 
-from django.shortcuts import render, redirect
 from django import http
 from django.views import View
 
